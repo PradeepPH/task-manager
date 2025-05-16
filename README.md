@@ -16,7 +16,7 @@ task-manager/
 ## 🚀 How to Run
 
 1. Clone the repository
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/PradeepPH/task-manager.git
 cd task-manager
 2.**Set Up the Backend**
     -  d backend
