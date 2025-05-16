@@ -18,12 +18,15 @@ task-manager/
 1. Clone the repository
 git clone https://github.com/PradeepPH/task-manager.git
 cd task-manager
+
 2.**Set Up the Backend**
     -  d backend
     -  npm init -y
     -  npm install express cors
+    
 3. Start the Backend Server
     -  node server.js
+      
 4. Run the Frontend
 Open the frontend folder.
 
