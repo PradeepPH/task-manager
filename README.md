@@ -20,6 +20,7 @@ git clone https://github.com/PradeepPH/task-manager.git
 cd task-manager
 
 2.Set Up the Backend
+
     -  d backend
     -  npm init -y
     -  npm install express cors
