@@ -7,6 +7,7 @@ It supports adding tasks with priority, due dates, categories, editing, marking 
 task-manager/
 ├── backend/
 │ └── server.js
+
 ├── frontend/
 │ ├── index.html
 │ ├── style.css
